@@ -2,5 +2,5 @@
 
 ## Model
 <p align="center">
-<img src="figs/histogram.png"/>
+<img src="figs/model1.png"/>
 </p>
